@@ -23,7 +23,7 @@ export default function Home() {
 
           <div className="space-y-4">
             <div>
-              <h2 className="text-zinc-400 mb-1">currently working</h2>
+              <h2 className="text-zinc-400 mb-1">currently working as</h2>
               <p>
                 backend engineer at{" "}
                 <a
